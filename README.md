@@ -10,15 +10,16 @@ Functional, deployed application GitHub repository with README describing the pr
 The website can be reached here: [Responsive-Portfolio](https://asheikh-io.github.io/02-Responsive-Portfolio/)
 
 # Images
-
-About - Screenshot
+![About](assets/About-Me-lg.PNG)
+![Portfolio](assets/Portfolio-lg.PNG)
+![Contact](assets/contact-lg.PNG)
 
 Portfolio - Screenshot
 
 Contact - Screenshot
 
 # Authors
-Ahmed Sheikh - complete work - [ASheikh-io](https://github.com/ASheikh-io)
+Ahmed Sheikh  [ASheikh-io](https://github.com/ASheikh-io)
 
 # License
 This project is licensed under the MIT License - see the LICENSE.md file for details
