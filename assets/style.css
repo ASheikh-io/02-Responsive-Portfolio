@@ -1,62 +1,22 @@
 body.mont {
-    font-family: "Montserrat", sans-serif;
+  font-family: 'Ubuntu', sans-serif;
     background-color: rgb(255, 255, 255);
   }
   
-  li.navstyle {
-    height: 100%;
-  }
-  
-  .fa-1x {
-    font-size: 1.5rem;
-    }
-    .navbar-toggler.toggler-example {
-    cursor: pointer;
-    }
-    .dark-blue-text {
-    color: #0A38F5;
-    }
-    .dark-pink-text {
-    color: #AC003A;
-    }
-    .dark-amber-text {
-    color: #ff6f00;
-    }
-    .dark-teal-text {
-    color: #004d40;
-    } 
-
-    
-  .fa {
-    padding: 7px;
-    font-size: 30px;
-    width: 30px;
-    height: 30px;
-    text-align: center;
-    text-decoration: none;
-    border-radius: 50%;
-  }
-  
+  /* Fixed-top navigation bar */
+.header {
+  overflow: hidden;
+  background-color: #333;
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
+}
+.header a:hover {
+  background: #ddd;
+  color: black;
+}
   /* hover effect */
   i.pointer:hover {
     opacity: 0.7;
   }
   
-  /* specific brand colors */
-  /* GitHub */
-  .fa-github {
-    background: #333;
-    color: white;
-  }
-  
-  /* linkedin */
-  .fa-linkedin {
-    background: #0e76a8;
-    color: #fff;
-  }
-  
-  
-  /* Portfolio cards */
-  .col:hover {
-    opacity: 0.7;
-  }
