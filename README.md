@@ -10,9 +10,12 @@ Functional, deployed application GitHub repository with README describing the pr
 The website can be reached here: [Responsive-Portfolio](https://asheikh-io.github.io/02-Responsive-Portfolio/)
 
 # Images
-![About](assets/About-Me-lg.PNG)
-![Portfolio](assets/Portfolio-lg.PNG)
-![Contact](assets/contact-lg.PNG)
+![](assets/About-Me-lg.PNG)
+![](assets/Portfolio-lg.PNG)
+![](assets/contact-lg.PNG)
+![](asses/About-Me-sm.PNG)
+![](assets/portfolio-sm.PNG)
+1[](assets/contact-sm.PNG)
 
 Portfolio - Screenshot
 
@@ -20,9 +23,6 @@ Contact - Screenshot
 
 # Authors
 Ahmed Sheikh  [ASheikh-io](https://github.com/ASheikh-io)
-
-# License
-This project is licensed under the MIT License - see the LICENSE.md file for details
 
 # Acknowledgments
 UNH Coding Bootcamp Instructors, TAs and Tutors
