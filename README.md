@@ -17,9 +17,6 @@ The website can be reached here: [Responsive-Portfolio](https://asheikh-io.githu
 ![](assets/portfolio-sm.PNG)
 1[](assets/contact-sm.PNG)
 
-Portfolio - Screenshot
-
-Contact - Screenshot
 
 # Authors
 Ahmed Sheikh  [ASheikh-io](https://github.com/ASheikh-io)
